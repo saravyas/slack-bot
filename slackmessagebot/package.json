@@ -1,0 +1,17 @@
+{
+  "name": "slackmessagebot",
+  "version": "1.0.0",
+  "description": "slackbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "saravyas",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^1.2.1"
+  }
+}
