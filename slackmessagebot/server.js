@@ -6,7 +6,7 @@ var cron = require('node-cron');
  
 console.log('bot started');
 
-var sara = '0 0 0 15 10 *';
+var sara = '0 0 0 15 12 *';
 cron.schedule(sara, function(){
 console.log('sara birthday excitement');
 // create a bot
